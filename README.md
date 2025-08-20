@@ -1,2 +1,7 @@
 # Gludo_SIA
-Reporsitory for System Integration and Architecture
+
+Taking Information Technology was not something I had planned or thought of 100 percent. I just made it one of my choices on my BatStateU application. But what I am sure of about why I chose computer-related programs is that I have a fascination with computers. Now, in my third year in college, I am taking System Integration and Architecture as one of my courses.
+
+For my expectation, I don’t really have a strong background or knowledge about the course, so for me, I am going in blind. But from the courses I have already taken, I expect this course to be a programming course that will teach me system integration and architecture, just from the title itself. From what I can also deduce from the title, this subject will explain how ERPs are created and how different systems are smoothly integrated and act as a coordinated whole. I also expect this course to educate me on different system architectures because, from what I understand from taking this program, it’s like we are taking Architecture but instead of constructing a building, we are creating systems. We first lay out the ‘blueprints,’ then we create, design, and deploy.
+
+Other than what I expect to learn from this course, I also expect that this will be a lot of fun, and I currently hope to have a wonderful experience while learning because, for me, learning should not always be hard; fun should always be built alongside learning. All in all, I expect this course to be filled with moments that I could look back on when I am already in the field working as an IT professional.
